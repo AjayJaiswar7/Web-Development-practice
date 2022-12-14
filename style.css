@@ -1,0 +1,22 @@
+body{
+background-color: rgb(101, 207, 175);
+}
+
+h1 {
+  text-align: center;
+  background-color: red;
+  font-size: medium;
+  padding: 45px;
+  margin: 50px;
+}
+
+h6 {
+  font-family: verdana;
+  border: 2px solid tomato;
+}
+
+p {
+  border: 2px solid blueviolet;
+  padding: 12px;
+}
+
